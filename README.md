@@ -14,6 +14,7 @@ Large Scalable Architecture and folder structure.
 -   Page Lazy Loading
 -   Module Architecture
 -   Large Scalable
+-   Absolute Paths
 
 ## Initialize Project
 
