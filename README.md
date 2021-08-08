@@ -17,7 +17,6 @@ Large Scalable Architecture and folder structure.
 
 ## Initialize Project
 
-    ```
     // 1. Install dependencies
 
     yarn
@@ -32,4 +31,3 @@ Large Scalable Architecture and folder structure.
     npm run start
 
     // 3. Start Kicking ass of development !
-    ```
